@@ -25,7 +25,6 @@ public class Segmento {
 			this.a =a;
 			this.b =b;
 		}
-		
 	}
 	
 	public Punto getA() {
